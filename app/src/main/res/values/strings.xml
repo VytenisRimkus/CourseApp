@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+    <string name="login_button">Log in!</string>
+    <string name="username_text">Username</string>
+    <string name="psw_text">Password</string>
+    <string name="crs">Course</string>
+</resources>
